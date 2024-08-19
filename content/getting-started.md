@@ -15,7 +15,14 @@ I highly recommend using Docker and containers to simplify software updates and 
 
 https://www.docker.com/products/docker-desktop/
 
+## Chocolatey
+
+Chocolatey is a Windows package manager that lets you install software. Many generative AI examples use unix utilities and you can download and install Windows equivalents
+
+https://community.chocolatey.org/
 
 ## Python
 
-Many of the hacks use Python and Python modules
+Many of the hacks use Python and Python packages. Install the latest version for your operating system.
+
+https://www.python.org/downloads/
