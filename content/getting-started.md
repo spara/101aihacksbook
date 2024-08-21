@@ -26,3 +26,11 @@ https://community.chocolatey.org/
 Many of the hacks use Python and Python packages. Install the latest version for your operating system.
 
 https://www.python.org/downloads/
+
+## Hugging Face
+
+Hugging Face distributes open source LLMs, training data, and provides services to run LLMs remotely.To download models, [sign up](https://huggingface.co/join) for an account and install the Hugging Face CLI using `pip`.
+
+```ps
+pip install -U "huggingface_hub[cli]"
+```
